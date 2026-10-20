@@ -1,0 +1,12 @@
+# Secretos y estado local — NUNCA se publican
+.env
+.agent/
+
+# Dependencias y artefactos
+node_modules/
+dist/
+build/
+*.log
+
+# Sistema
+.DS_Store
